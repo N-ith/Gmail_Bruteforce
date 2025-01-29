@@ -27,6 +27,7 @@ Instruction:
             - passlist = "C:/Password_list.txt"
         * Then run the bruteForce_Gmail.py
 
+**Note: Use this at your own risk.
 References:
     . https://www.youtube.com/watch?v=omHZtBbc0Hc&t=25s
     . https://www.youtube.com/watch?v=k2BkdnlHnII&t=166s
