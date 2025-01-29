@@ -8,7 +8,7 @@ character = "alohell99l" #input any information about your password. example:
 # character = ["hello", "apple", "1"] , it will shuffle these words and get "helloapple1, applehello1, ..."
 # Note: the way it shuffles depends on the max and min that u set above 
 
-file_open = open("E:/Passlist.txt", 'w')
+file_open = open("", 'w')
 
 for i in range (min, max+1):
     for j in product(character, repeat=i):
