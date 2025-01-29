@@ -3,8 +3,8 @@ import os
 import time
 # from goto import goto, label
 
-target = "sophanithan2@gmail.com" # target gmail
-passlist = "E:/Passlist.txt" # path to your password list
+target = "" # target gmail
+passlist = "" # path to your password list
 
 class Crack():
     def __init__(self, gmail, file):
